@@ -1,0 +1,1 @@
+# VoteGuard-Smart-Voter-Fraud-Detection-Electoral-Data-Analytics-System
