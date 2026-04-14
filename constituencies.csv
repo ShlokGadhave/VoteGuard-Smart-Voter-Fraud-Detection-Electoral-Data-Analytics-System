@@ -1,0 +1,51 @@
+constituency_id,constituency_name,district,state,total_population
+1,Constituency_1,Tiruppur,Uttar Pradesh,108369
+2,Constituency_2,Howrah,Maharashtra,438786
+3,Constituency_3,Dehri,Gujarat,178393
+4,Constituency_4,Amravati,Delhi,123158
+5,Constituency_5,Ratlam,Uttar Pradesh,103736
+6,Constituency_6,Hyderabad,Uttar Pradesh,438323
+7,Constituency_7,Asansol,Rajasthan,95580
+8,Constituency_8,Cuttack,Rajasthan,271208
+9,Constituency_9,Phusro,Maharashtra,65622
+10,Constituency_10,Mau,Maharashtra,164629
+11,Constituency_11,Guwahati,Delhi,314951
+12,Constituency_12,Raichur,Rajasthan,63912
+13,Constituency_13,Dibrugarh,Rajasthan,154248
+14,Constituency_14,Loni,Uttar Pradesh,390726
+15,Constituency_15,Faridabad,Uttar Pradesh,335706
+16,Constituency_16,Bhimavaram,Karnataka,165574
+17,Constituency_17,Rajpur Sonarpur,Karnataka,358944
+18,Constituency_18,Vasai-Virar,Gujarat,474374
+19,Constituency_19,Hubli–Dharwad,Maharashtra,447833
+20,Constituency_20,Pondicherry,Delhi,416026
+21,Constituency_21,Patiala,Karnataka,228389
+22,Constituency_22,Jhansi,Gujarat,131516
+23,Constituency_23,Vijayanagaram,Delhi,450290
+24,Constituency_24,Ramgarh,Gujarat,103587
+25,Constituency_25,Ichalkaranji,Maharashtra,249191
+26,Constituency_26,Rajpur Sonarpur,Maharashtra,238208
+27,Constituency_27,Durg,Gujarat,366526
+28,Constituency_28,Purnia,Gujarat,473167
+29,Constituency_29,North Dumdum,Maharashtra,432589
+30,Constituency_30,Guntakal,Karnataka,331137
+31,Constituency_31,Agra,Maharashtra,248461
+32,Constituency_32,Dehri,Maharashtra,339428
+33,Constituency_33,Yamunanagar,Gujarat,484846
+34,Constituency_34,Guntakal,Uttar Pradesh,374282
+35,Constituency_35,Shimoga,Gujarat,352698
+36,Constituency_36,Sambalpur,Delhi,419398
+37,Constituency_37,Salem,Maharashtra,74025
+38,Constituency_38,Kochi,Uttar Pradesh,169484
+39,Constituency_39,Dehri,Gujarat,91833
+40,Constituency_40,Saharsa,Delhi,102953
+41,Constituency_41,Saharanpur,Karnataka,195738
+42,Constituency_42,Anantapuram,Karnataka,383281
+43,Constituency_43,Warangal,Gujarat,135277
+44,Constituency_44,Erode,Gujarat,236264
+45,Constituency_45,Kumbakonam,Delhi,401364
+46,Constituency_46,Madanapalle,Gujarat,417955
+47,Constituency_47,Bongaigaon,Uttar Pradesh,389757
+48,Constituency_48,Kottayam,Maharashtra,369360
+49,Constituency_49,Asansol,Uttar Pradesh,139725
+50,Constituency_50,Kavali,Rajasthan,432272
